@@ -1,0 +1,7 @@
+node_modules
+.vscode
+artifacts
+cache
+.env_mainnet
+.env_ropsten
+.env
